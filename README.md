@@ -8,7 +8,7 @@ To use the app, simply open it in your web browser and enter the name of the loc
 
 Some of the key features of our weather app include:
 
-Real-time weather data from reliable sources
-Easy-to-use interface with intuitive controls
-Customizable settings for temperature units, wind speed, and other options
-Responsive design that looks great on desktop and mobile devices
+-Real-time weather data from reliable sources
+-Easy-to-use interface with intuitive controls
+-Customizable settings for temperature units, wind speed, and other options
+-Responsive design that looks great on desktop and mobile devices
